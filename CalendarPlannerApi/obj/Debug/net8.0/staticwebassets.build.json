@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WGxsBhwL/fnTpnMVX42vGRUe45jM3BXBjVntwMtp0hM=",
+  "Source": "CalendarPlannerApi",
+  "BasePath": "_content/CalendarPlannerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
